@@ -8,7 +8,7 @@ import portfolioData from '../../data/portfolio.json'
 
 const Portfolio = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
-  const [portfolio, setPortfolio] = useState([])
+  
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -20,14 +20,7 @@ const Portfolio = () => {
     }
   })
 
-//   useEffect(() => {
-//     getPortfolio()
-//   }, [])
 
-//   const getPortfolio = async () => {
-//     const querySnapshot = await getDocs(collection(db, 'portfolio'))
-//     setPortfolio(querySnapshot.docs.map((doc) => doc.data()))
-//   }
 
   const renderPortfolio = (portfolio) => {
     return (

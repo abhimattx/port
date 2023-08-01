@@ -1,7 +1,7 @@
 {
   "portfolio": [
     {
-      "cover": "/portfolio/1/devdappvoting.png",
+      "cover": "/portfolio/1/devcover.png",
       "title": "Voting Dapp",
       "description": "React, Solidity",
       "url": "https://youtu.be/bAjHB94SwYw",
