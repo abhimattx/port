@@ -1,34 +1,18 @@
 {
-    "portfolio": [
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        }
-    ]
+  "portfolio": [
+    {
+      "cover": "/portfolio/1/devdappvoting.png",
+      "title": "Voting Dapp",
+      "description": "React, Solidity",
+      "url": "https://youtu.be/bAjHB94SwYw",
+      "github": "https://github.com/abhimattx/Dapp_Voting"
+    },
+    {
+      "cover": "/portfolio/1/devcover.png",
+      "title": "Portfolio",
+      "description": "React, GreenSock, Animate.css, Emailjs",
+      "url": "http://google.com",
+      "github": "https://github.com/abhimattx/Abhishek_Portfolio.git"
+    }
+  ]
 }
